@@ -1,0 +1,17 @@
+/***  INDEX  *s**/
+body{
+    margin: 0;
+}
+.front{
+    background-color: rgb(10, 10, 136);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.img-front{
+    width: 469px;
+    height: 104px;
+}
