@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 .front{
-    background-color: rgb(10, 10, 136);
+    background-color: rgb(4, 4, 56);
     width: 100%;
     height: 100vh;
     display: flex;
