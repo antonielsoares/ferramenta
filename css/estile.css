@@ -15,3 +15,26 @@ body{
     width: 469px;
     height: 104px;
 }
+/***  BACK  ***/
+.bg_back{
+    background-color: rgb(66, 160, 4);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.quadrado_back{
+    width: 646px;
+    height: 465px;
+    background-color: rgb(245, 153, 153);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.quadrado_01{
+    width: 188px;
+    height: 156px;
+    background-color: aqua;
+    margin: 20px 10px;
+}
